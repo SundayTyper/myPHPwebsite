@@ -7,8 +7,7 @@ so that we can enter again at our leisure
 
 # Improvements I would like to make:
 
-- shore up the page security so that I cannot access the wall without login auth, and can never access the connection page
-- separate the html sections from php scripts into new files
+- shore up the page security so that I can never access the connection page
 - jazz up the pages with CSS and better HTML styling
 
 # Install
